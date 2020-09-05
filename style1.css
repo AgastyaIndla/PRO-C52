@@ -1,0 +1,48 @@
+h1 {
+    color:#B22222 ;
+    font-size: xx-large;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+body {
+    background-color:#00FF64;
+    margin: 20px ;
+}
+
+h2 {
+    color:#DC143C;
+    font-family: cursive;
+    font:medium;
+}
+
+h3 {
+    color: #000080 ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font:medium;
+}
+
+h4 {
+    color:#4B0082;
+    font-family: monospace;
+    font: x-large;
+    font-size:x-large;
+}
+
+br {
+    color: #F0E68C;
+    font-family: fantasy;
+    font-size: x-large;
+    font: x-large;
+}
+
+a:link{
+    color:#ff0000;
+}
+
+a:visited{
+color: #FF3C00;
+}
+
+a:hover{
+    color:#000000;
+}
